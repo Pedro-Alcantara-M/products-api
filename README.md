@@ -13,6 +13,7 @@ To run the project:
 1- Clone o repositório:
 ```http
  git clone git@github.com:Pedro-Alcantara-M/products-api.git
+ ```
 
 2-  Navegue para o o diretório do projeto:
 
