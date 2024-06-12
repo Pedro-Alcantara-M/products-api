@@ -43,3 +43,11 @@ após isso execute o comando abaixo.
 - Editar produtos
 - Deletar produtos.
 
+###Testes
+
+Para executar os testes unitários execute o comando
+
+```http
+ npm run test
+```
+
